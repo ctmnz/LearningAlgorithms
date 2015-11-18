@@ -1,7 +1,7 @@
 
-public class main {
+public class Main {
 
-	public static void main(String[] args) {
+	public static void Main(String[] args) {
 		int[] toSortInt = ArrayGenerator.makeIntArray(16);
 		
 		int[] sortedOut = SortingAlgorithms.doIntMerge(toSortInt);
