@@ -1,5 +1,5 @@
 
-public class debugHelper {
+public class DebugHelper {
 	public static void printIntArray (int[] printArray) {
 		
 		System.out.println("------ print int array -------");

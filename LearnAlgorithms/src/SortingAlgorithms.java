@@ -1,4 +1,3 @@
-import java.awt.image.renderable.RenderableImage;
 
 public class SortingAlgorithms {
 	public static int[] doIntMerge(int[] toSort) {
@@ -10,7 +9,7 @@ public class SortingAlgorithms {
 		int k = 1;
 		int tmpInt;
 		
-		for (int i =0; i < n; i ++) {
+		for (int i =0; i < n; i ++) { 
 			System.out.println(toSort[i]);
 		}
 		

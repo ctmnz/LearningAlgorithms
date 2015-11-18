@@ -6,7 +6,7 @@ public class main {
 		
 		int[] sortedOut = SortingAlgorithms.doIntMerge(toSortInt);
 		
-		debugHelper.printIntArray(sortedOut);
+		DebugHelper.printIntArray(sortedOut);
 //		debugHelper.printIntArray(toSortInt);		
 //		debugHelper.printIntArray(sortedOut);
 		
